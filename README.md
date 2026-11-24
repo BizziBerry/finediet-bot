@@ -5,7 +5,7 @@
 продуктов питания». М.: ДеЛи плюс, 2012* — по коду категорию можно связать с таблицами химсостава для оценки рациона.
 
 Данные: [Russian Grocery Receipts: 82k Items, 1053 Foods](https://www.kaggle.com/datasets/bizziberri/purchase-data) (Kaggle)
-Разбор данных и сравнение моделей: [ноутбук на Kaggle](https://www.kaggle.com/code/bizziberri/russian-receipts-food-classification)
+Разбор данных и сравнение моделей: [ноутбук на Kaggle]([https://www.kaggle.com/code/bizziberri/russian-receipts-food-classification](https://www.kaggle.com/code/bizziberri/russian-receipts-food-classification-baselines))
 
 ## Что умеет
 - `/start` → меню с кнопками
