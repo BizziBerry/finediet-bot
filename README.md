@@ -4,6 +4,8 @@
 
 Чек всё равно приходит после каждой покупки, вести дневник питания вручную не нужно. Это главная идея проекта.
 
+**Открытые данные проекта на Kaggle:** [чеки: 82 тыс. позиций, 1053 категории](https://www.kaggle.com/datasets/bizziberri/purchase-data) · [категории → нутриенты USDA](https://www.kaggle.com/datasets/bizziberri/russian-grocery-categories-to-usda-nutrients) · [ноутбук quick start](https://www.kaggle.com/code/bizziberri/russian-grocery-usda-nutrients-quick-start)
+
 | | |
 |:---:|:---:|
 | <img src="docs/01-welcome.png" width="330"><br>**Приветствие:** как это работает | <img src="docs/04-diet-money.png" width="330"><br>**«Мой рацион» 1/2:** цифры, штрихкод рациона, деньги |
@@ -89,7 +91,7 @@ python bot.py
 
 ## Данные и лицензии
 - Чеки: [Russian Grocery Receipts: 82k Items, 1053 Foods](https://www.kaggle.com/datasets/bizziberri/purchase-data) · сравнение моделей: [ноутбук на Kaggle](https://www.kaggle.com/code/bizziberri/russian-receipts-food-classification-baselines).
-- Химсостав: U.S. Department of Agriculture, Agricultural Research Service. FoodData Central, fdc.nal.usda.gov (CC0). Сопоставление `usda_map.csv` и `nutrients_usda.csv` можно использовать свободно.
+- Химсостав: U.S. Department of Agriculture, Agricultural Research Service. FoodData Central, fdc.nal.usda.gov (CC0). Сопоставление опубликовано отдельным датасетом: [Russian Grocery Categories to USDA Nutrients](https://www.kaggle.com/datasets/bizziberri/russian-grocery-categories-to-usda-nutrients) (771 категория, 24 нутриента, CC BY 4.0) · пример использования: [ноутбук quick start](https://www.kaggle.com/code/bizziberri/russian-grocery-usda-nutrients-quick-start).
 - Справочник: Тутельян В. А. и др. «Химический состав и калорийность российских продуктов питания». М.: ДеЛи плюс, 2012. Защищён авторским правом, поэтому значения из него в репозиторий не входят, только коды категорий.
 - Нормы: КБЖУ по формуле Миффлина–Сан Жеора, витамины и минералы по МР 2.3.1.0253-21. Это ориентир, а не медицинское назначение.
 
