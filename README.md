@@ -6,6 +6,10 @@
 
 **Открытые данные проекта на Kaggle:** [чеки: 82 тыс. позиций, 1053 категории](https://www.kaggle.com/datasets/bizziberri/purchase-data) · [категории → нутриенты USDA](https://www.kaggle.com/datasets/bizziberri/russian-grocery-categories-to-usda-nutrients) · [ноутбук quick start](https://www.kaggle.com/code/bizziberri/russian-grocery-usda-nutrients-quick-start)
 
+## Benchmark
+
+**[Russian grocery & nutrition (pilot)](https://www.kaggle.com/benchmarks/bizziberri/russian-grocery-and-nutrition-pilot)** — Kaggle benchmark built on the FineDiet dataset. It tests whether LLMs can do the bot's core job: match a Russian product name to a USDA FoodData Central record (or say "none" / "ask"), and compute nutrients for portions like "0,4 кг" or "3 шт. по 55 г".
+
 | | |
 |:---:|:---:|
 | <img src="docs/01-welcome.png" width="330"><br>**Приветствие:** как это работает | <img src="docs/04-diet-money.png" width="330"><br>**«Мой рацион» 1/2:** цифры, штрихкод рациона, деньги |
