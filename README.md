@@ -6,13 +6,11 @@
 
 **Открытые данные проекта на Kaggle:** [чеки: 82 тыс. позиций, 1053 категории](https://www.kaggle.com/datasets/bizziberri/purchase-data) · [категории → нутриенты USDA](https://www.kaggle.com/datasets/bizziberri/russian-grocery-categories-to-usda-nutrients) · [ноутбук quick start](https://www.kaggle.com/code/bizziberri/russian-grocery-usda-nutrients-quick-start)
 
-## Benchmark
+## Benchmark | Бенчмарк
 
 **[Russian grocery & nutrition (pilot)](https://www.kaggle.com/benchmarks/bizziberri/russian-grocery-and-nutrition-pilot)** — Kaggle benchmark built on the FineDiet dataset. It tests whether LLMs can do the bot's core job: match a Russian product name to a USDA FoodData Central record (or say "none" / "ask"), and compute nutrients for portions like "0,4 кг" or "3 шт. по 55 г".
 
-## Бенчмарк
-
-**[Russian grocery & nutrition (pilot)](https://www.kaggle.com/benchmarks/bizziberri/russian-grocery-and-nutrition-pilot)** — бенчмарк на Kaggle, построенный на датасете FineDiet. Он проверяет, справляются ли языковые модели с главной задачей бота: сопоставить русское название продукта с записью USDA FoodData Central (или ответить «нет подходящей» / «нужно уточнить») и посчитать нутриенты для порций вроде «0,4 кг» или «3 шт. по 55 г».
+— бенчмарк на Kaggle, построенный на датасете FineDiet. Он проверяет, справляются ли языковые модели с главной задачей бота: сопоставить русское название продукта с записью USDA FoodData Central (или ответить «нет подходящей» / «нужно уточнить») и посчитать нутриенты для порций вроде «0,4 кг» или «3 шт. по 55 г».
 
 | | |
 |:---:|:---:|
