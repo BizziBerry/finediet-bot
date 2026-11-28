@@ -10,6 +10,10 @@
 
 **[Russian grocery & nutrition (pilot)](https://www.kaggle.com/benchmarks/bizziberri/russian-grocery-and-nutrition-pilot)** — Kaggle benchmark built on the FineDiet dataset. It tests whether LLMs can do the bot's core job: match a Russian product name to a USDA FoodData Central record (or say "none" / "ask"), and compute nutrients for portions like "0,4 кг" or "3 шт. по 55 г".
 
+## Бенчмарк
+
+**[Russian grocery & nutrition (pilot)](https://www.kaggle.com/benchmarks/bizziberri/russian-grocery-and-nutrition-pilot)** — бенчмарк на Kaggle, построенный на датасете FineDiet. Он проверяет, справляются ли языковые модели с главной задачей бота: сопоставить русское название продукта с записью USDA FoodData Central (или ответить «нет подходящей» / «нужно уточнить») и посчитать нутриенты для порций вроде «0,4 кг» или «3 шт. по 55 г».
+
 | | |
 |:---:|:---:|
 | <img src="docs/01-welcome.png" width="330"><br>**Приветствие:** как это работает | <img src="docs/04-diet-money.png" width="330"><br>**«Мой рацион» 1/2:** цифры, штрихкод рациона, деньги |
